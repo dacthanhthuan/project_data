@@ -125,6 +125,52 @@
                 "lat": 10.774919165329,
                 "lon": 106.63431273902846
             }
+        },
+        {
+            "id": 6,
+            "name": "Bitexco",
+            "city": "TP.HCM",
+            "country": "VietNam",
+            "entry_price": "$50",
+            "address": "BITEXCO, Ngô Đức Kế, Quận 1, Thành phố Hồ Chí Minh",
+            "opening_time": "7:00 AM",
+            "closing_time": "05:00 PM",
+            "categories": [
+                "Trending"
+            ],
+            "images": [
+                "https://i.pinimg.com/564x/70/1e/c6/701ec6ba1aff895cce4b0a2aa402b9db.jpg",
+                "https://i.pinimg.com/564x/4e/1c/1c/4e1c1ca76071e3b5fa50b795973ac3a7.jpg",
+                "https://i.pinimg.com/564x/cb/f6/e5/cbf6e555103cd469a2292a93423d83fb.jpg"
+            ],
+            "coordinates": {
+                "lat": 10.772192,
+                "lon": 106.704293
+            }
+        },
+        {
+            "id": 7,
+            "name": "Landmark 81",
+            "city": "TP.HCM",
+            "country": "VietNam",
+            "entry_price": "$75",
+            "address": "Landmark 81, 720A Đ. Điện Biên Phủ, Vinhomes Tân Cảng, Bình Thạnh, Thành phố Hồ Chí Minh",
+            "opening_time": "7:00 AM",
+            "closing_time": "05:00 PM",
+            "categories": [
+                "Trending"
+            ],
+            "images": [
+                "https://i.pinimg.com/564x/09/c7/fb/09c7fb7cdaadc1a97759bb00089a1a64.jpg",
+                "https://i.pinimg.com/736x/f8/90/1e/f8901e8af1fd97a5b8dc09ed26d71886.jpg",
+                "https://i.pinimg.com/564x/d6/b1/01/d6b101c4ac6aa43f369e43c935a1df3b.jpg",
+                "https://i.pinimg.com/564x/87/d6/25/87d62518513b4acbe5091d912cd4a75d.jpg",
+                "https://i.pinimg.com/564x/0b/98/26/0b98260fb2362a9766637a4b161e3666.jpg"
+            ],
+            "coordinates": {
+                "lat": 10.79758544368146,
+                "lon": 106.72168710512835
+            }
         }
     ]
 }
